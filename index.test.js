@@ -150,4 +150,4 @@ describe('[Exercise 7] isEvenNumberAsync', () => {
        let number = await utils.isEvenNumberAsync(5)
        expect(number).toBe(false)
      })
-})
+});
